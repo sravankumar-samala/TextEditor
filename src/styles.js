@@ -12,6 +12,7 @@ export const Button = styled.button`
 export const EditorTextArea = styled.textarea`
   background-color: transparent;
   border-color: #cbd5e1;
+  border-top: none;
   color: #f8fafc;
   padding: 1em;
   font-size: 1rem;
